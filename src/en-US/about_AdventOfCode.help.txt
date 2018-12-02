@@ -1,0 +1,8 @@
+TOPIC
+    AdventOfCode
+
+SHORT DESCRIPTION
+    Module for Advent of Code 2018 solutions
+
+LONG DESCRIPTION
+    Module for Advent of Code 2018 solutions. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at lorem vitae purus iaculis aliquam eget et nibh
