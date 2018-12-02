@@ -12,7 +12,7 @@
 RootModule = 'AdventOfCode.psm1'
 
 # Version number of this module.
-ModuleVersion = '0.0.1'
+ModuleVersion = '0.0.2'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
@@ -27,7 +27,7 @@ Author = 'Thomas Larsen'
 CompanyName = 'Unknown'
 
 # Copyright statement for this module
-Copyright = '(c) 2018 Thomas Larsen. All rights reserved.'
+Copyright = 'It''s Free Software'
 
 # Description of the functionality provided by this module
 Description = 'It''s Advent of Code time.'
